@@ -62,6 +62,7 @@
     "is-promise": "^2.1.0",
     "lodash": "^4.17.3",
     "lodash-es": "^4.17.3",
+    "prop-types": "^15.6.1",
     "shallowequal": "^0.2.2"
   },
   "devDependencies": {
